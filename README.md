@@ -1,2 +1,2 @@
 # Métodos de gran escala
-Tareas del  ** equipo n-1 **
+Tareas del  **equipo n-1**
